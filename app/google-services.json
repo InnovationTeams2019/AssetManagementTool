@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "622867064772",
+    "firebase_url": "https://assetmanagementtool-1d859.firebaseio.com",
+    "project_id": "assetmanagementtool-1d859",
+    "storage_bucket": "assetmanagementtool-1d859.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622867064772:android:11e46d7b3b926482",
+        "android_client_info": {
+          "package_name": "com.factory.ecommerce.assetmanagementtool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622867064772-9v64utogpbuk6qabqmamk596kjduik81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.factory.ecommerce.assetmanagementtool",
+            "certificate_hash": "9d1e75b621bb2d486db59d8b72823138910111f6"
+          }
+        },
+        {
+          "client_id": "622867064772-taqpveli8t5205svlo3b7udja3uf408p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr8T7ojX1N_km64QlwtaTTqrIr0m_HQ5M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622867064772-taqpveli8t5205svlo3b7udja3uf408p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
